@@ -19,6 +19,8 @@
 [okhttpintegration](https://github.com/bumptech/glide/tree/master/integration/okhttp3)
 ## 图片压缩算法
 [Luban](https://github.com/Curzibn/Luban)
+## 图片放大
+[PhotoView](https://github.com/chrisbanes/PhotoView)
 ## 注解
 [ButterKnife](https://github.com/JakeWharton/butterknife)
 [butterknifeCompiler](https://github.com/JakeWharton/butterknife)
@@ -30,3 +32,17 @@
 [util](https://github.com/Blankj/AndroidUtilCode)
 ## 加载框
 [KProgressHUD](https://github.com/Kaopiz/KProgressHUD)
+## 指纹判断
+[fingerprint](https://github.com/uccmawei/FingerprintIdentify)
+## 图表工具
+[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+## 减少shape资源文件布局
+[FlycoRoundView](https://github.com/H07000223/FlycoRoundView)
+## 简化开发时间共用布局(比如个人信息界面)
+[LovelyView](https://github.com/samlss/LovelyView)
+## 通过标签生成shape,无需再写shape
+[BackgroundLibrary](https://github.com/JavaNoober/BackgroundLibrary)
+## 屏幕适配方案
+[AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)
+## 日历控件
+[CalenderView](https://github.com/huanghaibin-dev/CalendarView)
