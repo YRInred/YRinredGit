@@ -73,3 +73,5 @@
 [PatternLockView](https://github.com/aritraroy/PatternLockView)
 ## 多条件筛选菜单
 [DropDownMenu](https://github.com/dongjunkun/DropDownMenu)
+## 数据储存框架(更高效的开源存储框架)
+[MMKV](https://github.com/Tencent/MMKV)
