@@ -31,6 +31,7 @@
 ## 图片选择器(这块目前还没有找到完美兼容所有需求的控件)
 [rxgalleryfinal](https://github.com/FinalTeam/RxGalleryFinal)
 [RZAlbum](https://github.com/ray00178/RZAlbum-Java)
+[PictureSelector](https://github.com/LuckSiege/PictureSelector)
 ## 注解
 [ButterKnife](https://github.com/JakeWharton/butterknife)
 [butterknifeCompiler](https://github.com/JakeWharton/butterknife)
