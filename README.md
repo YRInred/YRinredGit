@@ -75,5 +75,7 @@
 [DropDownMenu](https://github.com/dongjunkun/DropDownMenu)
 ## 数据储存框架(更高效的开源存储框架)
 [MMKV](https://github.com/Tencent/MMKV)
+## 动画最新推荐插件lottie 直接官网下载json加载 方便
+[lottie动画库](https://www.lottiefiles.com/popular?page=3)
 ## 更多控件
 [AOSF](https://github.com/Ericsongyl/AOSF)
