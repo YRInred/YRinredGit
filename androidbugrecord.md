@@ -8,7 +8,7 @@ android{
  aaptOptions.cruncherEnabled = false
     aaptOptions.useNewCruncher = false}
 ```
-9.0系统新特性,http无法访问网络,只支持https，并且前台服务也有权限限制，为了保持兼容，以下步骤
+9.0系统新特性,http无法访问网络,只支持https，并且前台服务也有权限限制，为了保持兼容，以下步骤  
 1.build 添加 
 ```GRADLE
 android{useLibrary 'org.apache.http.legacy'}
