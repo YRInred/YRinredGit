@@ -36,3 +36,4 @@ res下建立xml包文件添加network_security_configxml
     </base-config>
 </network-security-config>
 ```
+edittext无法弹出问题 android系统bug 由于透明状态栏 而且没有设置fitsystem = true的原因 归纳为android5497bug
