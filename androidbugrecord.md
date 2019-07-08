@@ -36,4 +36,12 @@ res下建立xml包文件添加network_security_configxml
     </base-config>
 </network-security-config>
 ```
-edittext无法弹出问题 android系统bug 由于透明状态栏 而且没有设置fitsystem = true的原因 归纳为android5497bug
+edittext无法弹出问题 android系统bug 由于透明状态栏 而且没有设置fitsystem = true的原因 归纳为android5497bug   
+8.0以上系统 关于解决欢迎页白屏问题 出现Only fullscreen opaque activities can request orientation
+设置style
+```XML
+<item name="android:windowNoTitle">true</item>
+<item name="android:windowFullscreen">true</item>
+<item name="android:windowIsTranslucent">false</item>
+<item name="android:windowDisablePreview">true</item>
+```
