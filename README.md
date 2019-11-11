@@ -79,3 +79,5 @@
 [lottie动画库](https://www.lottiefiles.com/popular?page=3)
 ## 更多控件
 [AOSF](https://github.com/Ericsongyl/AOSF)
+## 蓝牙检测工具
+nrFConnect
