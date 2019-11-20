@@ -45,3 +45,12 @@ edittext无法弹出问题 android系统bug 由于透明状态栏 而且没有�
 <item name="android:windowIsTranslucent">false</item>
 <item name="android:windowDisablePreview">true</item>
 ```
+在做一个二次开发项目的时候始终无法申请write权限，配置都正常，权限框架也换了几个都无法获取，查阅资料也没有解决，只好把文件都保存到app内部文件夹，三方架包有的用存储的也只有下下来改源码，项目也就这样了，随着需求持续开发，最近只好重新查看下问题，偶然翻到一个类似的情况,说是某个三方项目把写入权限版本限制了
+```XML
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"  android:maxSdkVersion="18"/>
+```
+于是就尝试解决办法 终于搞定了
+```XML
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" tools:remove="android:maxSdkVersion" />
+```
+
